@@ -3,4 +3,5 @@ Ahhoz, hogy a react szervert elindítsuk, a xampp/htdocs/uv/app/view mappán bel
 A XAMPP elindítása után az Apache és a MySQL elindítása szükségeltetik.
 Az uv mappán belüli storage.sql fájlt szükséges beimportálni phpMyAdminba.
 A POST és GET requestek megfelelő működésének érdekében (Firefoxban) telepítettem egy CORS Everywhere nevezetű plugint, ami a CORS megkötéseket figyelmen kívül hagyja annak érdekében, hogy a requestek sikeresek legyenek.
+Az uv/app/view mappából hiányzik a node_modules mappa, érthető okokból nem tudtam feltölteni Githubra.
 Köszönöm a lehetőséget! :)
