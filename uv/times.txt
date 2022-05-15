@@ -1,0 +1,2 @@
+Creation of DB: ~20 minutes
+Creation of the rest: ~10 hours
